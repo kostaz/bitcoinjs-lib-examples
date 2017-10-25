@@ -1,0 +1,15 @@
+{
+  "name": "bitcoinjs-lib-examples",
+  "version": "1.0.0",
+  "description": "bitcoinjs-lib-examples",
+  "main": "create_and_sign_tx_p2sh_in_p2pkh_out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kosta Zertsekel",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin": "^3.0.1",
+    "bitcoinjs-lib": "^3.2.1"
+  }
+}
